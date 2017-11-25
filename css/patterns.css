@@ -1,0 +1,26 @@
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box sizing: border-box;
+}
+html {
+	min-height: 100%;
+}
+body {
+	background-color: rebeccapurple;
+	background-image: url("../img/beto.png");
+	background-repeat: no-repeat;
+	background-position: 100px 200px;
+}
+
+header {
+	width: 100%;
+	background-color: white;
+	float: left;
+	text-align: center;
+	height: 70px;
+	background-image: url("../img/bg-header.png");
+	background-repeat: repeat-x;
+	background-position: left bottom;
+
+}
